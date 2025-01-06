@@ -1,5 +1,9 @@
 # FIFA Analytics Hub: Unveiling Player Insights
 
+## Data Source
+The dataset used in this project was provided by professors at the university and is accessible via the following URL:
+[Anexo_Projeto_fifa_world_national_teams_versão_oficial_2024](https://raw.githubusercontent.com/filipezabala/pucrs-tecnologo-bd/main/dados/Anexo_Projeto_fifa_world_national_teams_versa%CC%83o_oficial%2020241.csv)
+
 ## Overview
 Welcome to the FIFA Analytics Hub! This repository is dedicated to exploring and analyzing FIFA players' data using advanced statistical techniques and visualizations. Our goal is to uncover meaningful insights into player characteristics, market trends, and performance metrics, making this an excellent resource for data enthusiasts and football fans alike.
 
